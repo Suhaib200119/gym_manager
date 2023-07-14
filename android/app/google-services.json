@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400196211839",
+    "project_id": "laravelnotification1-296b5",
+    "storage_bucket": "laravelnotification1-296b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400196211839:android:fde4e7478f50163294db4a",
+        "android_client_info": {
+          "package_name": "com.example.gym_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400196211839-411v2cc7054i8o4fqsg35slge5f0nm9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAClw5XYQtY25AtlWjaQ6Hn82ZY1rMqspc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400196211839-411v2cc7054i8o4fqsg35slge5f0nm9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
